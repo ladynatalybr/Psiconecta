@@ -1,0 +1,13 @@
+<section class="card">
+    <div>
+    <div class="card" style="width: 300px;">
+        <div class="card-body">
+            <h5 class="card-title">PSCONTACTO B&P</h5>
+            <p class="card-text"> Somos una institución prestadora de servicios de salud y bienestar social, mental y emocional que enfoca su portafolio de servicios en la construcción de mecanismo y estrategias de intervención que promuevan el desarrollo de acciones y hábitos que garantice y fortalezcan la capacidad del ser humano para llevar a cabo un proceso de vida que integre la capacidad de relacionarse y contribuir a la sociedad en la construcción de un mejor estilo de vida. 
+              Nuestra marca se orienta en garantizar acciones que fortalezcan la salud física, mental y emocional de nuestros pacientes, es por ello que bajo un amplio portafolio de profesionales que integran conocimientos y experiencias buscan generar la construcción y/o corrección de acciones y pensamientos que retribuyan de manera positiva en diferentes escenarios de la vida cotidiana. 
+              La disponibilidad de nuestros servicios se garantizará de lunes a viernes en horario de oficina y/o de acuerdo a la demanda de nuestros servicios se programará el acompañamiento que nuestros pacientes requieran, estas a un solo paso de cambiar tu vida a fin de generar nuevas acciones que redefinan tu futuro.</p>
+            
+              <img src="img/Logo.jpg" class="card-img-top" alt="imagen1">
+        </div>
+    </div>
+</div>
